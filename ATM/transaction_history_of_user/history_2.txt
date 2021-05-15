@@ -1,0 +1,6 @@
+Sat May 15 10:58:07 2021
+-You sent 10000 thousand.
+Sat May 15 11:03:26 2021
+-You sent 10000 thousand.
+Sat May 15 11:03:49 2021
+-You withdrawned 20000 thousand.
